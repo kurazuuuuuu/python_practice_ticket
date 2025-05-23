@@ -1,2 +1,2 @@
 # python_practice_ticket
-python勉強会用リポジトリ
+git clone https://github.com/kurazuuuuuu/python_practice_ticket.git
