@@ -1,0 +1,2 @@
+# python_practice_ticket
+python勉強会用リポジトリ
